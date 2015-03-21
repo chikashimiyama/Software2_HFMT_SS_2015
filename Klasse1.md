@@ -1,9 +1,12 @@
 # Klasse1
 
-# Mischung
+# Mischung und Audioverarbeitung
 
 ## Lehrbuch
 - [Mixing Audio](http://www.mixingaudio.com) / Roey Izhaki
+- [Beispiel-Mix](http://www.mixingaudio.com/book/sample_mixes.php)
+
+
 
 ## Audacity
 
@@ -83,8 +86,6 @@ Ein Schallpegelmesser ist ein Messgerät zur Bestimmung von Schalldruckpegeln. S
 ![](Klasse1/sl.jpg)
 ![](Klasse1/messer.jpeg) an einem Flughafen
 
-
-
 #### Experiment
 Erzeugen Sie einen Resudualton mit Max
 ![](Klasse1/missing_fundamental.png)
@@ -92,10 +93,12 @@ Erzeugen Sie einen Resudualton mit Max
 #### Links
 [Auditive Wahrnehmung und kritische Bandbreiten](http://www.netaudio.de/psychoakustik/Daten/startseite.htm)
 
-#### Aussteuerungsmesser (Peakmeter)
+#### HA
+Lesen Sie Mixing Audio : Concepts, Practices, and Tools 
+- Kapitel 13
+- 
 
-![](Klasse1/peakmeter.png)
-
+#### Terminologien
 
 1. Psychoakustik (Psychoacoustics)
 2. Gehörrichtige Lautstärke (Equal-loudness contour)
@@ -105,4 +108,3 @@ Erzeugen Sie einen Resudualton mit Max
 6. Simultane Verdeckung (simultaneous Masking)
 7. Temporäre Verdeckung (temporal Masking)
 8. Schalldruckpegel (Sound Pressur Level)
-9. Aussteuerungsmesser

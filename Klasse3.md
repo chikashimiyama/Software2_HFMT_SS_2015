@@ -1,17 +1,8 @@
 # Klasse3
 
-# Panning 1
+## Panning 
 
-## Delay
+Mixing Audio - Kapitel 13
 
-### Multi-Tap Delay
+Pan pot - abkürzung von Panoramic Potentiometer
 
-### Ping Pong Delay
-
-### Delay + EQ
-
-## Chorus
-
-## Phasor
-
-## Flanger
