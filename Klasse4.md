@@ -2,17 +2,59 @@
 
 # EQ 1
 
-## Reverb
+## Experiment
 
-### Verdeckung (Masking )
-bewirken beim menschlichen Gehör, dass der Mensch in einem Geräusch bestimmte Frequenzanteile nicht oder nur mit verringerter Sensitivität wahrnehmen kann.
+### Patch 1 / Serienfilter
 
-### Simultane Verdeckung:
-Ein Signal mit niedrigem Pegel wird durch ein zeitgleich auftretendes Signal mit hohem Pegel maskiert.
+![](Klasse4/serialfilter.png)
 
-![](Klasse1/gleich.png)
+## Teminologien
 
-### Temporäre Verdeckung:
-Ein Signal mit niedrigem Pegel wird durch ein Signal mit hohem Pegel, welches nach (bis 200ms) oder kurz vor (bis 50ms) dem schwachen Signal auftritt ebenfalls maskiert.
+### Frequenzgang (Frequency-Response)
+Der Frequenzgang ist der Zusammenhang zwischen Ein- und Ausgangssignal einer Ausrüstung bezüglich der Amplitude. 
 
-![](Klasse1/tempo.png)
+![](Klasse4/frequenzgang.png)
+### Hochpassfilter (Highpass-Filter)
+Als Hochpass bezeichnet man Filter, die Frequenzen oberhalb ihrer Grenzfrequenz annähernd ungeschwächt passieren lassen und tiefere Frequenzen dämpfen.
+
+### Tiefpassfilter (Lowpass-Filter)
+schwächt hohe Frequenzen bis zu einer Grenzfrequenz ab. Tieffrequente Signalanteile werden durchgelassen. 
+
+### Grenzfrequenz (Cutoff-Frequency)
+ist derjenige Wert der Frequenz, bei dessen Überschreitung die Signalamplitude am Ausgang eines Bauteils unter einen bestimmten Wert sinkt.
+
+### Flankensteilheit (Steepness)
+ist die Steilheit der Bereichsenden von Filtern wie Hochpass,Tiefpass, oder Bandpass, ausgedrückt in Dezibel pro Oktave (dB/Okt). Normalerweise 6 dB/Okt.
+
+### Resonanz
+Einige Tiefpass- oder Hochpassfilter sorgen dafür, daß diejenigen Töne, die in der unmittelbaren Nähe der Grenzfrequenz liegen, besonders verstärkt, alle anderen abgeschwächt werden. Dieser Effekt wird Resonanz genannt, und kann so stark werden, daß das Filter anfängt, von alleine mit der Grenzfrequenz zu schwingen. 
+
+### high-Shelve Filter
+
+### Low-Shelve Filter
+
+### Parametric Filter
+
+### Peak notch Filter
+
+
+### Allpass Filter
+
+### 3 Bänder EQ (3-band EQ)
+
+
+### 4 Bänder EQ (4-band EQ)
+
+### 5 Bänder EQ (5-band EQ)
+
+
+### Graphische EQ
+
+
+### Dynamische EQ
+
+
+### Sibilant (Sibilance)
+Reibelaut, bei dessen Artikulation sich eine Längsrille in der Zunge bildet, über die die ausströmende Luft nach außen gelenkt wird (z. B. s, z, sch)
+
+
