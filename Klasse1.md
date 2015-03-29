@@ -1,37 +1,7 @@
-# Klasse1
-
-# Mischung und Audioverarbeitung
-
-## Lehrbuch
-- [Mixing Audio](http://www.mixingaudio.com) / Roey Izhaki
-- [Beispiel-Mix](http://www.mixingaudio.com/book/sample_mixes.php)
+# Klasse1 /Dezibel, Meter und Fader
 
 
-
-## Audacity
-
-- [Audacity](http://audacity.sourceforge.net)
-
-freie, plattformunabhängige Open-Source-Software für die Aufnahme und Bearbeitung von Audio.
-
-
-
-## Gehörrichtige Lautstärke (Equal-loudness contour)
-beschriebt wie Schallaufnahmen so wiedergegeben werden, dass sie bei unterschiedlichen Lautstärken einen ähnlichen Höreindruck ergeben.
-
-![](Klasse1/equal-loudness.png)
-
-Die Lautstärkewahrnehmung ist stark frequenzabhängig. Die Abhängigkeit der Lautstärkewahrnehmung von der Frequenz fällt darüber hinaus für unterschiedliche Lautstärkepegel unterschiedlich aus.
-
-## Lautstärke
-Die Lautstärke eines Schalls ist ein Maß dafür, wie laut er vom Menschen als Hörereignis empfunden wird.
-
-
-## Bel/Dezibel (Bell/Decibel)
-Das Bel ist eine Hilfsmaßeinheit zur Kennzeichnung von Pegeln. Das Bel dient zur Kennzeichnung des **dekadischen Logarithmus** des Verhältnisses zweier gleichartiger Energie. In der Regel wird statt des Bels das Dezibel (Einheitenzeichen *dB*) verwendet, also der zehnte Teil eines Bels.
-Das dB allein ist eine reine Verhältnisangabe, ähnlich wie das Prozent (%). Es sagt also **nichts aus über absolute Größen**.
-
-Das dB ist definiert als der zehnte Teil der dekadischen Logarithmus des zu messenden Verhältnisses x1/x2 :  10 * log(10) x1/x2
+[Kapitel-12](http://www.chikashi.net/?sdm_downloads=k12)
 
 ### Logarithmus
 
@@ -45,21 +15,30 @@ Beispiel:
 ![](Klasse1/klasse11.png)
 
 B / A = 10
+
 ![](Klasse1/decibel.png)
 
+Dezibel = 20 * Bel
 
-## Verdeckung (Masking )
-bewirken beim menschlichen Gehör, dass der Mensch in einem Geräusch bestimmte Frequenzanteile nicht oder nur mit verringerter Sensitivität wahrnehmen kann.
+## Experiment 
+## Terminologien
 
-### Simultane Verdeckung:
-Ein Signal mit niedrigem Pegel wird durch ein zeitgleich auftretendes Signal mit hohem Pegel maskiert.
+### Lautstärke
+Die Lautstärke eines Schalls ist ein Maß dafür, wie laut er vom Menschen als Hörereignis empfunden wird.
 
-![](Klasse1/gleich.png)
+### Bel/Dezibel (Bell/Decibel)
+Das Bel ist eine Hilfsmaßeinheit zur Kennzeichnung von Pegeln. Das Bel dient zur Kennzeichnung des **dekadischen Logarithmus** des Verhältnisses zweier gleichartiger Energie. In der Regel wird statt des Bels das Dezibel (Einheitenzeichen *dB*) verwendet, also der zehnte Teil eines Bels.
+Das dB allein ist eine reine Verhältnisangabe, ähnlich wie das Prozent (%). Es sagt also **nichts aus über absolute Größen**.
 
-### Temporäre Verdeckung:
-Ein Signal mit niedrigem Pegel wird durch ein Signal mit hohem Pegel, welches nach (bis 200ms) oder kurz vor (bis 50ms) dem schwachen Signal auftritt ebenfalls maskiert.
+Das dB ist definiert als der zwanzigste Teil der dekadischen Logarithmus des zu messenden Verhältnisses x1/x2 :  20 * log(10) x1/x2
 
-![](Klasse1/tempo.png)
+
+### Gehörrichtige Lautstärke (Equal-loudness contour)
+beschriebt wie Schallaufnahmen so wiedergegeben werden, dass sie bei unterschiedlichen Lautstärken einen ähnlichen Höreindruck ergeben.
+
+![](Klasse1/equal-loudness.png)
+
+Die Lautstärkewahrnehmung ist stark frequenzabhängig. Die Abhängigkeit der Lautstärkewahrnehmung von der Frequenz fällt darüber hinaus für unterschiedliche Lautstärkepegel unterschiedlich aus.
 
 ### Schalldruckpegel (Sound Pressure Level / SPL)
 Der Bezugswert für Luftschall wurde Anfang des 20. Jahrhunderts festgelegt. Dieser Schalldruck wurde für die Hörschwelle des menschlichen Gehörs bei der Frequenz 1 kHz gehalten.
@@ -86,25 +65,6 @@ Ein Schallpegelmesser ist ein Messgerät zur Bestimmung von Schalldruckpegeln. S
 ![](Klasse1/sl.jpg)
 ![](Klasse1/messer.jpeg) an einem Flughafen
 
-#### Experiment
-Erzeugen Sie einen Resudualton mit Max
-![](Klasse1/missing_fundamental.png)
-
-#### Links
-[Auditive Wahrnehmung und kritische Bandbreiten](http://www.netaudio.de/psychoakustik/Daten/startseite.htm)
-
 #### HA
 Lesen Sie Mixing Audio : Concepts, Practices, and Tools 
-- Kapitel 13
-- 
 
-#### Terminologien
-
-1. Psychoakustik (Psychoacoustics)
-2. Gehörrichtige Lautstärke (Equal-loudness contour)
-3. Bel (Bell)  
-4. Dezibel (Decibel)
-5. Verdeckung (Masking)
-6. Simultane Verdeckung (simultaneous Masking)
-7. Temporäre Verdeckung (temporal Masking)
-8. Schalldruckpegel (Sound Pressur Level)
