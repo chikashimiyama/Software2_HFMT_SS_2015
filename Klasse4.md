@@ -36,25 +36,14 @@ Einige Tiefpass- oder Hochpassfilter sorgen dafür, daß diejenigen Töne, die i
 
 ![](Klasse4/resonance.png)
 
-### high-Shelve Filter
+### Kuhschwanzfilter (Shelving Filter)
+Kuhschwanzfilter dienen der Veränderung der Amplituden des Höhen- oder des Tiefenbereiches. Dabei wird der gewünschte Pegel von einer gewissen Frequenz an kuhschwanz- oder peitschenförmig abgesenkt (gedämpft) oder angehoben (verstärkt). Im Falle der Verstärkung ähnelt der Frequenzgang optisch dem Profil eines Festlandsockels: der Pegel wird stetig erhöht und bleibt schließlich auf dem erhöhten Niveau stehen.
 
-### Low-Shelve Filter
+![](Klasse4/schelving.png)
 
-### Parametric Filter
-
-### Peak notch Filter
-
-
-### Allpass Filter
-
-### 3 Bänder EQ (3-band EQ)
+### Parametric Filter 
 
 
-### 4 Bänder EQ (4-band EQ)
-
-### 5 Bänder EQ (5-band EQ)
-
-## Andere EQ
 ### Graphischer EQ
 besitzt mehrere Schieberegler mit denen jeweils ein bestimmter Frequenzbereich angehoben oder abgesenkt werden kann. Die Anzahl der Frequenzbereiche, die bearbeitet werden können, ist von Gerät zu Gerät verschieden. Man spricht hier auch von Bändern: Mit einem 10-bandigen Equalizer können 10 verschiedene Frequenzbereiche unabhängig voneinander geregelt werden.
 

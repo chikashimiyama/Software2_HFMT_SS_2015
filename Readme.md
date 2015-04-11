@@ -21,7 +21,7 @@ von Dr. Chikashi Miyama
 - 8.6 Delay/Reverb
 - 15.6 Distortion
 - 22.6 Wiederholung
-- 29.6 Prüfung
+- 29.6 Prüfung (Schriftlich / 50x Aufgaben 30x Hörtest)
 
 ## Audacity
 
