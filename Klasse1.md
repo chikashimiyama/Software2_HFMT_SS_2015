@@ -55,6 +55,12 @@ Die Anzeige des Messwertes erfolgt durch mechanische Zeiger oder Balkenanzeige.
 ### Balkenanzeige (Bar Meter)
  ![](Klasse1/LED.png)
 
+### Peak-Hold
+zeigt den höchsten Pegel über eine längere Zeitspanne.
+
+### Übersteuerungsanzeige (Clip Indicator)
+Wenn der Pegel für das Eingangssignal zu hoch ist, leuchtet die Übersteuerungsanzeige rot auf.
+
 ### Spitzenpegelmesser (Peak Meter)
 Spitzenpegelmesser messen die (maximalen) Amplitudenwerte von elektrischen Signalen. Das können sowohl positive als auch negative Amplituden sein.
 
