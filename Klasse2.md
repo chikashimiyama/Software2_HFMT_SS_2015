@@ -1,10 +1,8 @@
-# Klasse2
+# Klasse2 Phase 
 
-## Phase 
-
-Mixing Audio - Kapitel 11 (19 Seiten)
-
-[Materialien runterladen](http://www.chikashi.net/?sdm_downloads=k11)
+### Hausaufgabe 
+Kapitel 13 , Mixing Audio : Concepts, Practices, and Tools 
+Panning (21 Seiten)
 
 ## Experiment
 
