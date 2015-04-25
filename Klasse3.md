@@ -13,7 +13,7 @@ Mixing Audio - Kapitel 13
 ### Patch 2 / 6 dB Verstärkung
 
 ![](Klasse3/two_speakers.png)
-Aber im Studio findet Reflektion und Phasenauslöschung statt. Wir wahrnehmen normalerweise **ca' +3dB** Verstärkung. 
+ 
 
 ### Patch 3 / Linear Panning
 ![](Klasse3/linear_panning_graph.png)
