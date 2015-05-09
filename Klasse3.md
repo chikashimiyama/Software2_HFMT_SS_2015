@@ -63,8 +63,5 @@ wird in der Akustik beim natürlichen Hören (Richtungshören) als ITD (Interaur
 ### Pegeldifferenz (Interaural Level Difference / ILD)
 wird in der Akustik beim natürlichen Hören (Richtungshören) als frequenzabhängiges ILD (Interaural Level Difference) und in der Tontechnik als frequenzneutrales Δ L beim Erzeugen der Hörereignisrichtung als Lautsprechersignale zwischen den Stereo-Lautsprechern verwendet, also auf der Lautsprecherbasis. Die Pegeldifferenz wird üblicherweise in Dezibel (dB) angegeben.
 
-### VBAP
-VBAP (Vector Base Amplitude Panning) ist eine Methode zur Positionierung von virtuellen Schallquellen, in beliebiger Richtung mit einem Setup aus mehreren Lautsprechern. In VBAP kann sowohl die Anzahl der Lautsprecher, als auch die Position in einem 2-D- oder 3-D-Setup frei gewählt werden. VBAP erzeugt sehr präzise Phantomschallquellen.
-
 
 [DSP Eartraing Course](http://folk.ntnu.no/oyvinbra/gdsp/Lesson1Panning.html)
